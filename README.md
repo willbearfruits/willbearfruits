@@ -12,6 +12,6 @@ https://www.patreon.com/Seriousshit
 
 - https://github.com/willbearfruits/serious-shit
 - https://github.com/willbearfruits/kloom-radio
-- https://github.com/willbearfruits/swissknifeofmedia
+- https://github.com/willbearfruits/rabbit-hole
 
 Last updated: 2026-02-16
