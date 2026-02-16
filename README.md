@@ -1,16 +1,15 @@
-## Hi there 👋
+# Willbear / Serious S.H.I.T.
 
-<!--
-**willbearfruits/willbearfruits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build and teach open-source experimental audio, glitch tools, and hardware projects.
 
-Here are some ideas to get you started:
+## Support
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my work stays free and open-source.
+Support early access, live sessions, and workshop-time:
+https://www.patreon.com/Seriousshit
+
+## Main Projects
+
+- https://github.com/willbearfruits/serious-shit
+- https://github.com/willbearfruits/kloom-radio
+- https://github.com/willbearfruits/swissknifeofmedia
